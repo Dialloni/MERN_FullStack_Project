@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_URL = 'http://localhost:5000/api/programs'; // Replace with your backend API URL
+const API_URL = 'http://localhost:8000/api/programs'; // Updated to match server port
 
 // Fetch all programs
 export const getPrograms = async () => {
