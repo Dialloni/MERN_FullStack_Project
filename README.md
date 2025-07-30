@@ -647,13 +647,3 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 - **Abubakar Diallo** - *Initial work*
 
-## 🙏 Acknowledgments
-
-- React.js team for the amazing framework
-- MongoDB Atlas for cloud database services
-- Bootstrap team for the CSS framework
-- All contributors and testers
-
----
-
-For any questions or support, please create an issue in the repository or contact the development team.
