@@ -1,4 +1,4 @@
-# MERN Full Stack Educational Platform
+# MERN Full Stack EduConnect Platform
 
 ## 🎓 **Project Overview**
 
